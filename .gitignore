@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+radiant.sklearn.Rproj
+.DS_Store
+cran-comments.md
+docs/
+.vscode/

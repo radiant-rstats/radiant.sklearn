@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"spellright.language": [
+			"en"
+		],
+		"spellright.documentTypes": [
+			"markdown",
+			"latex",
+			"plaintext",
+			"rmd",
+			"django-html"
+		],
+		"spellright.parserByClass": {
+			"django-html": {
+				"parser": "xml"
+			}
+		}
+	}
+}
